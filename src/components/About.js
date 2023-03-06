@@ -6,9 +6,9 @@ import { Nav } from './components/NavBar';
 const us = () => {
   return (
     <section>
-        <Nav />
-        <About />
-        <Footer />
+      <Nav />
+      <About />
+      <Footer />
     </section>
   )
 }
